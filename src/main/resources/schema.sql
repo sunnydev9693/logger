@@ -1,0 +1,6 @@
+CREATE TABLE STUDENT_TEST (
+    id INT PRIMARY KEY,
+    sname VARCHAR(100),
+    address VARCHAR(255),
+    course VARCHAR(100)
+);

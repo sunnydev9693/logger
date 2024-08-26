@@ -1,0 +1,1 @@
+INSERT INTO STUDENT_TEST (id,sname,address,course) VALUES (50,'sunny','ABC','ABC');
